@@ -1,4 +1,4 @@
-name: pytest:win
+name: pytest:master_MyLabelTest
 on:
   push:
     branches: ['*', '*/*', master]
